@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/JESUSANSWERS777/bible-friend.png?columns=all)](https://waffle.io/JESUSANSWERS777/bible-friend?utm_source=badge)
 # Bible Friends
 
 
